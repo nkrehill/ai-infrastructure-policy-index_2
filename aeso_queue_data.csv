@@ -1,0 +1,7 @@
+Project_ID,Project_Type,AESO_Planning_Region,Requested_Load_MW,Current_Status
+P201,Data Centre,South,800,Active
+P202,Data Centre,Central,400,Under Review
+P203,Wind Farm,South,150,Approved
+P204,Data Centre,Calgary,150,Active
+P205,Solar Array,North,200,Approved
+P206,Data Centre,South,600,Under Review
