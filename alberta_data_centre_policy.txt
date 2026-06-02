@@ -1,0 +1,8 @@
+GOVERNMENT OF ALBERTA - BILL 8 & BILL 12 AMENDMENTS
+ELECTRICITY UTILITIES (DATA CENTRE INTEGRATION) ACT 
+
+REGULATORY FRAMEWORK SUMMARY:
+1. Effective immediately, a strict interim connection cap of 1,200 MW is placed on all new Large Load Infrastructure projects exceeding 50 MW.
+2. All data center operators requesting grid access must undergo a mandatory Phase 2 Cluster Assessment by the AESO to evaluate localized grid stability.
+3. Effective December 31, 2026, a new computing equipment levy will apply to all non-power-self-sufficient operations, adding operational cost friction.
+4. Projects that demonstrate "behind-the-fence" self-generation utilizing carbon-neutral or co-located off-peak assets will receive fast-tracked regulatory approvals.
